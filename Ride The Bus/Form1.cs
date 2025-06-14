@@ -26,7 +26,7 @@ namespace Ride_The_Bus
         Random rand = new Random();
         Deck Deck = new Deck();
         List<Deck.Card> ColorStack = new List<Deck.Card>();
-        List<Deck.Card> HighterLowerStack = new List<Deck.Card>();
+        List<Deck.Card> HigherLowerStack = new List<Deck.Card>();
         List<Deck.Card> InsideOutsideStack = new List<Deck.Card>();
         List<Deck.Card> SuitStack = new List<Deck.Card>();
 
@@ -83,15 +83,15 @@ namespace Ride_The_Bus
                 {
                     case 1:
                         ColorStack.Add(Deck.shuffledDeckList[0]);
-                        pictureBoxColor.Image = ColorStack[0].imageWhite;
+                        pictureBoxColor.Image = ColorStack[ColorStack.Count - 1].imageWhite;
                         Deck.shuffledDeckList.Remove(Deck.shuffledDeckList[0]);
                         nextPos++;
                         pictureBoxCheveron1.Visible = false;
                         pictureBoxCheveron2.Visible = true;
                         break;
                     case 2:
-                        HighterLowerStack.Add(Deck.shuffledDeckList[0]);
-                        pictureBoxValue.Image = HighterLowerStack[0].imageWhite;
+                        HigherLowerStack.Add(Deck.shuffledDeckList[0]);
+                        pictureBoxValue.Image = HigherLowerStack[HigherLowerStack.Count - 1].imageWhite;
                         Deck.shuffledDeckList.Remove(Deck.shuffledDeckList[0]);
                         nextPos++;
                         pictureBoxCheveron2.Visible = false;
@@ -99,7 +99,7 @@ namespace Ride_The_Bus
                         break;
                     case 3:
                         InsideOutsideStack.Add(Deck.shuffledDeckList[0]);
-                        pictureBoxInsideOutside.Image = InsideOutsideStack[0].imageWhite;
+                        pictureBoxInsideOutside.Image = InsideOutsideStack[InsideOutsideStack.Count - 1].imageWhite;
                         Deck.shuffledDeckList.Remove(Deck.shuffledDeckList[0]);
                         nextPos++;
                         pictureBoxCheveron3.Visible = false;
@@ -107,7 +107,7 @@ namespace Ride_The_Bus
                         break;
                     case 4:
                         SuitStack.Add(Deck.shuffledDeckList[0]);
-                        pictureBoxSuit.Image = SuitStack[0].imageWhite;
+                        pictureBoxSuit.Image = SuitStack[SuitStack.Count - 1].imageWhite;
                         Deck.shuffledDeckList.Remove(Deck.shuffledDeckList[0]);
                         nextPos = 1;
                         pictureBoxCheveron4.Visible = false;
@@ -142,7 +142,7 @@ namespace Ride_The_Bus
         {
             ColorStack.Clear();
             pictureBoxColor.Image = Properties.Resources.black_blank;
-            HighterLowerStack.Clear();
+            HigherLowerStack.Clear();
             pictureBoxValue.Image = Properties.Resources.black_blank;
             InsideOutsideStack.Clear();
             pictureBoxInsideOutside.Image = Properties.Resources.black_blank;

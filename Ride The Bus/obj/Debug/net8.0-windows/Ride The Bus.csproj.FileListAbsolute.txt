@@ -1,0 +1,19 @@
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\bin\Debug\net8.0-windows\Ride The Bus.exe
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\bin\Debug\net8.0-windows\Ride The Bus.deps.json
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\bin\Debug\net8.0-windows\Ride The Bus.runtimeconfig.json
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\bin\Debug\net8.0-windows\Ride The Bus.dll
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\bin\Debug\net8.0-windows\Ride The Bus.pdb
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride_The_Bus.Form1.resources
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride_The_Bus.Properties.Resources.resources
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride_The_Bus.Settings.resources
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.csproj.GenerateResource.cache
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.AssemblyInfoInputs.cache
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.AssemblyInfo.cs
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.sourcelink.json
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.dll
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\refint\Ride The Bus.dll
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.pdb
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\Ride The Bus.genruntimeconfig.cache
+C:\Users\Jason\Documents\GitHub\RideTheBus\Ride The Bus\obj\Debug\net8.0-windows\ref\Ride The Bus.dll

@@ -166,9 +166,6 @@
   <data name="C2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\White\C2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Joker2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Joker2.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="HJ1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\Black\HJ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -249,9 +246,6 @@
   </data>
   <data name="C31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\Black\C3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Joker1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Deck\Black\Joker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DK1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\Black\DK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -430,9 +424,6 @@
   <data name="DQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\White\DQ.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Joker" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Deck\White\Joker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="S81" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\Black\S8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -453,9 +444,6 @@
   </data>
   <data name="H101" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\Black\H10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Joker21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Deck\Black\Joker2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CA" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Deck\White\CA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
